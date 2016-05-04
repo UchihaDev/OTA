@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <A0001>
+        <mt6582>
             <Filename>ResurrectionRemix-M-v5.6.8-20160505-mt6582-mtkroms.com</Filename>
             <RomUrl
                 id="rom"
@@ -19,6 +19,6 @@
                 id="xda"
                 title="XDA"
                 description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/oneplus-one/development/rom-slimsaber-bacon-t2858033</XDAUrl>
-	</A0001>
+	</mt6582>
     </Stable>
 </SlimOTA>
