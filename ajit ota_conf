@@ -15,6 +15,7 @@ device_name=ro.rr.device
 #
 # VERSION
 #
+#
 # A version can be a date or a number with characters
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
