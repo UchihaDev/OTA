@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://www.mtkroms.com/2016/06/</RomUrl>
+                description="Download ResurrectionRemix builds">http://www.mtkroms.com/2016/05/stable-ota-resurrection-remix-mm-mt6582.html</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -14,11 +14,11 @@
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Download A-Gapps"
-            	description="Download A-Gapps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            	description="Download A-Gapps">http://forum.xda-developers.com/android/general/gapps-gapps-6-0-1-minimal-t3276606</SlimGappsUrl>
            <OpenGappsUrl
             	id="open_gapps"
-            	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	title="Facebook group"
+            	description="Visit and join my facebook group for more updates !">https://www.facebook.com/groups/mtkroms/</OpenGappsUrl>
 	</mt6582>
     </Stable>
 </SlimOTA>
