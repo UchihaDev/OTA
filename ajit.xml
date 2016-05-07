@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">http://forums.mtkroms.com/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Download A-Gapps"
