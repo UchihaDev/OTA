@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="Device specific patches"
-                description="Download the device specific patches required to make the OTA compatible with your device. If you have any confusion then contact the porter of your device for more information on how to properly flash OTA.">https://www.facebook.com/groups/mtkroms/</XDAUrl>
+                description="Test">https://www.facebook.com/groups/mtkroms/</XDAUrl>
 	</mt6582>
     </Stable>
 </SlimOTA>
