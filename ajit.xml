@@ -14,7 +14,7 @@
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Download A-Gapps"
-            	description="Download A-Gapps">http://forum.xda-developers.com/android/general/gapps-gapps-6-0-1-minimal-t3276606</SlimGappsUrl>
+            	description="Download A-Gapps, no need to flash again if gapps is already installed">http://forum.xda-developers.com/android/general/gapps-gapps-6-0-1-minimal-t3276606</SlimGappsUrl>
            <OpenGappsUrl
             	id="open_gapps"
             	title="Facebook group"
