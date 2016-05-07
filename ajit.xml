@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title="Download Rom"
-                description="Download RR Remix Latest For MT6582">http://www.mtkroms.com/2016/05/stable-resurrection-remix--mmt6582</RomUrl>
+                description="Download RR Remix Latest For MT6582">http://www.mtkroms.com/2016/05/stable-resurrection-remix-mmt6582</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Download Resurrection Remix changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
+                description="Download Resurrection Remix changelogs">https://www.androidfilehost.com/flid=21888</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
