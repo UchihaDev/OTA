@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <mt6582>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160507-mt6582</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160512-mt6582</Filename>
             <RomUrl
                 id="rom"
-                title="OTA Link"
-                description="Click here to download the delta OTA zip">http://www.mtkroms.com/2016/05/stable-ota-resurrection-remix-mm-mt6582.html</RomUrl>
+                title="Downloads"
+                description="Download the ROM, read the notice before flasing">http://updates.mtkroms.com/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -14,7 +14,7 @@
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Download A-Gapps"
-            	description="Download A-Gapps, no need to flash again if gapps is already installed">http://forum.xda-developers.com/android/general/gapps-gapps-6-0-1-minimal-t3276606</SlimGappsUrl>
+            	description="Download A-Gapps">http://forum.xda-developers.com/android/general/gapps-gapps-6-0-1-minimal-t3276606</SlimGappsUrl>
            <OpenGappsUrl
             	id="open_gapps"
             	title="Facebook group"
